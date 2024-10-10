@@ -11,10 +11,6 @@ A simple portfolio template for developer/designers built with React.
 - Edit Content From One Place
 
 ### Setup
-
-Get the code
-
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
  
 Install required dependencies
 
